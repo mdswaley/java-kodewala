@@ -1,4 +1,4 @@
-package javabasics;
+package CommandLinePractice;
 
 public class OrderInfo {
     // wap order ID, product name, placed by, delivery address info from command line args

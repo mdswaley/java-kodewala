@@ -1,4 +1,4 @@
-package javabasics;
+package CommandLinePractice;
 
 public class OutfitDetails {
     public static void main(String[] args) {
