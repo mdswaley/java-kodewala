@@ -23,3 +23,16 @@ public class EmployeeSalaryInfo {
         System.out.println("Net Salary  : " + netSalary);
     }
 }
+
+/*
+output
+PS C:\Users\mdswa\Desktop\KodeWala(Java)> java CommandLinePractice.EmployeeSalaryInfo 123 MD 540000 3000 
+Employee ID : 123
+Name        : MD
+Gross Salary: 543000.0
+Tax         : 54300.0
+Net Salary  : 488700.0
+PS C:\Users\mdswa\Desktop\KodeWala(Java)>
+
+
+*/ 
