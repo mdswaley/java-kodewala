@@ -11,7 +11,9 @@ public class AndOrOperator {
 
         System.out.println("Condition 2 : "+ (carName.length() <= maxLen));
 
-        System.out.println("OverAll Conditions : "+ ((carName.length() > minLen) || (carName.length() <= maxLen)));
+        System.out.println("OverAll Conditions for OR : "+ ((carName.length() > minLen) || (carName.length() <= maxLen)));
+
+        System.out.println("OverAll Conditions for AND : "+ ((carName.length() > minLen) && (carName.length() <= maxLen)));
 
     }
 }
