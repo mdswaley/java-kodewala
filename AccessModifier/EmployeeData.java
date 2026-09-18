@@ -1,6 +1,6 @@
 package AccessModifier;
 
-public class EmployeeData {
+class EmployeeData {
     private int id = 123;
     String name = "MD";
 
