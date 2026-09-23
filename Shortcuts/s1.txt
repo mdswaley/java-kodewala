@@ -9,3 +9,4 @@ how de-compile work
 ctrl + alt + l --> formatting the code
 ctrl + alt + o --> removing unused import
 alt + enter --> import package after hover to the class
+ctrl + n --> find any class or interface
