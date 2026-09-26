@@ -10,7 +10,7 @@ public class ValidateInput {
     }
 
     private static boolean isValidInput(String s){
-        if(s.length() < 3 || s.length() > 15){
+        if(s.length() < 2 || s.length() > 15){
             return false;
         }
 
