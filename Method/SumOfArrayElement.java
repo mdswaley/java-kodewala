@@ -2,7 +2,7 @@ package Method;
 
 public class SumOfArrayElement {
     public static void main(String[] args) {
-        int[] arr = {4, 2, 10, 45, 12, 22};
+        int[] arr = {4, 2, 10, 45, 12, 22, 87};
 
         int res = findSum(arr);
 
