@@ -15,6 +15,10 @@ public class PrintNumbers {
         System.out.println();
 
         printStToEndOdd(20, 40);
+
+        System.out.println();
+
+        printMultiplication(5);
     }
 
     public static void printStToEnd(int start, int end){
@@ -44,6 +48,13 @@ public class PrintNumbers {
             }
         }
     }
+
+    public static void printMultiplication(int n){
+        for(int i=1;i<=10;i++){
+            System.out.println(n +" * "+i+" = "+n*i);
+        }
+    }
+
 
 
 
