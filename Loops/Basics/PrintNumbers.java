@@ -19,6 +19,10 @@ public class PrintNumbers {
         System.out.println();
 
         printMultiplication(5);
+
+        System.out.println("\nSum of N number is : "+printSumOfNNumber(10));
+
+        System.out.println("Factorial of n is : "+printFactOfN(5));
     }
 
     public static void printStToEnd(int start, int end){
@@ -55,7 +59,25 @@ public class PrintNumbers {
         }
     }
 
+    public static int printSumOfNNumber(int n){
+        int sum = 0;
 
+        for (int i = 1; i <= n; i++) {
+            sum += i;
+        }
+
+        return sum;
+    }
+
+    public static int printFactOfN(int n){
+        int fact = 1;
+
+        for(int i=1;i<=n;i++){
+            fact *= i;
+        }
+
+        return fact;
+    }
 
 
 
