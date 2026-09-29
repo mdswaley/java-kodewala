@@ -1,17 +1,35 @@
 package ControlFlow.FlightTicketBookingRepo;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class FlightTicketBookingMain {
     public static void main(String[] args) {
-        FlightTicketBooking f1 = new FlightTicketBooking();
+        FlightTicketBooking booking = new FlightTicketBooking();
 
-        int amount = 4500;
-        double res = f1.flightTicketDiscount(amount);
+        Map<String, Double> users = new HashMap<>();
+        users.put("Rahul", 2500.0);
+        users.put("Amit", 4500.0);
+        users.put("Priya", 7500.0);
+        users.put("Sneha", 10000.0);
+        users.put("Arjun", 15000.0);
 
-        double finalAmount = amount - res;
+        for(Map.Entry<String, Double> map:users.entrySet()){
 
-        System.out.println("Ticket price : "+amount);
-        System.out.println("Discount : "+res);
-        System.out.println("Final amount to Pay : "+finalAmount);
+            String user = map.getKey();
+            double ticketPrice = map.getValue();
+
+            double discount = booking.flightTicketDiscount(ticketPrice);
+
+            double finalAmount = ticketPrice - discount;
+
+            System.out.println("User        : " + user);
+            System.out.println("Ticket Price: " + ticketPrice);
+            System.out.println("Discount    : " + discount);
+            System.out.println("Final Amount: " + finalAmount);
+            System.out.println("-----------------------------");
+
+        }
 
     }
 }
