@@ -1,4 +1,4 @@
-package ControlFlow;
+package ControlFlow.MakeMyTripRepo;
 
 public class MakeMyTripMain {
     public static void main(String[] args) {

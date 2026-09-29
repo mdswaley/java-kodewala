@@ -1,4 +1,4 @@
-package ControlFlow;
+package ControlFlow.MakeMyTripRepo;
 
 /**
  * MakeMyTrip Discount Module
