@@ -1,0 +1,19 @@
+package ControlFlow;
+
+public class MakeMyTripMain {
+    public static void main(String[] args) {
+        MakeMyTrip m1 = new MakeMyTrip();
+
+        int fare = 20000;
+
+        System.out.println("Total Fare: " + fare);
+
+        double dis = m1.discount(fare);
+        double finalFare = fare - dis;
+
+
+        System.out.println("Discount amount : " + dis);
+        System.out.println("Final Fare: " + finalFare);
+
+    }
+}
