@@ -33,3 +33,56 @@ public class FlightTicketBookingMain {
 
     }
 }
+/*
+    1. What is Map.Entry?
+
+    A Map stores data as key-value pairs.
+
+    Java provides an inner interface called:
+
+    Map.Entry<K, V>
+
+    It represents one key-value pair.
+
+    For example:
+
+    "Rahul" -> 2500.0
+
+    is one Map.Entry.
+
+        users.entrySet()
+
+        which returns a Set containing all the key-value pairs.
+
+        Conceptually:
+
+        users
+        |
+        v
+        +----------------------+
+        | Rahul -> 2500.0      |
+        | Amit  -> 4500.0      |
+        | Priya -> 7500.0      |
+        +----------------------+
+
+        users.entrySet()
+            |
+            v
+        +----------------------+
+        | Entry(Rahul, 2500)   |
+        | Entry(Amit, 4500)    |
+        | Entry(Priya, 7500)   |
+        +----------------------+
+
+        The return type is approximately:
+
+        Set<Map.Entry<String, Double>>
+
+        So:
+
+        users.entrySet()
+
+        means:
+
+        Give me a collection containing every key-value pair in this map.
+*/
