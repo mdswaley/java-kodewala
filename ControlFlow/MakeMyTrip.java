@@ -28,6 +28,7 @@ public class MakeMyTrip {
 
         }else{
             System.out.println("not a valid input...");
+            return 0;
         }
 
     // maximize the discount
