@@ -2,9 +2,12 @@ package Loops.Medium;
 
 public class PrintNumber2 {
     public static void main(String[] args) {
-        System.out.println("Count number of digit is given number : "+countNumber(12534));
-        System.out.println("Sum of digit is : "+sumOfDigit(2432));
-        System.out.println("Reverse a Number : "+reverseNumber(123));
+        int num = 23432;
+
+        System.out.println("Count number of digit is given number : "+countNumber(num));
+        System.out.println("Sum of digit is : "+sumOfDigit(num));
+        System.out.println("Reverse a Number : "+reverseNumber(num));
+        System.out.println("Palindrome number check for : "+num+" is -> "+palindromeNumber(num));
     }
 
     private static int countNumber(int n){
@@ -38,6 +41,16 @@ public class PrintNumber2 {
         }
 
         return res;
+    }
+
+    private static boolean palindromeNumber(int number){
+        int rev = reverseNumber(number);
+
+        if(number == rev){
+            return true;
+        }
+
+        return false;
     }
 
 
