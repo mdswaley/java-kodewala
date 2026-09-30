@@ -8,6 +8,7 @@ public class PrintNumber2 {
         System.out.println("Sum of digit is : "+sumOfDigit(num));
         System.out.println("Reverse a Number : "+reverseNumber(num));
         System.out.println("Palindrome number check for : "+num+" is -> "+palindromeNumber(num));
+        System.out.println("Largest digit in number is : "+largestDigit(num));
     }
 
     private static int countNumber(int n){
@@ -51,6 +52,17 @@ public class PrintNumber2 {
         }
 
         return false;
+    }
+
+    private static int largestDigit(int num){
+        int max = 0;
+
+        while (num > 0){
+            max = Math.max(max, num % 10);
+            num /= 10;
+        }
+
+        return max;
     }
 
 
