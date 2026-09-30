@@ -9,6 +9,7 @@ public class PrintNumber2 {
         System.out.println("Reverse a Number : "+reverseNumber(num));
         System.out.println("Palindrome number check for : "+num+" is -> "+palindromeNumber(num));
         System.out.println("Largest digit in number is : "+largestDigit(num));
+        System.out.println("Count the occurrence of give digit in number : "+countOccurrence(num, 2));
     }
 
     private static int countNumber(int n){
@@ -63,6 +64,21 @@ public class PrintNumber2 {
         }
 
         return max;
+    }
+
+    private static int countOccurrence(int num, int digit){
+        int count = 0;
+
+        while (num > 0){
+            int rem = num % 10;
+
+            if(rem == digit){
+                count++;
+            }
+            num /= 10;
+        }
+
+        return count;
     }
 
 
