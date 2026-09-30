@@ -10,6 +10,7 @@ public class PrintNumber2 {
         System.out.println("Palindrome number check for : "+num+" is -> "+palindromeNumber(num));
         System.out.println("Largest digit in number is : "+largestDigit(num));
         System.out.println("Count the occurrence of give digit in number : "+countOccurrence(num, 2));
+        System.out.println("Power of number is : "+powerOfNumber(2, 5));
     }
 
     private static int countNumber(int n){
@@ -81,5 +82,13 @@ public class PrintNumber2 {
         return count;
     }
 
+    private static int powerOfNumber(int base, int pow){
+        int res = 1;
 
+        for(int i=0;i<pow;i++){
+            res *= base;
+        }
+
+        return res;
+    }
 }
