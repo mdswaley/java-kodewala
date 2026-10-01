@@ -21,5 +21,7 @@ public class GuessTheNumber {
                 System.out.println("You Won!!");
             }
         }
+
+        sc.close();
     }
 }

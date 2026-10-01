@@ -12,7 +12,7 @@ public class ScannerExp1 {
         System.out.println("Enter price of the product : ");
         int price = sc.nextInt();  // nextInt()	One integer	Leaves \n behind like enter :- 100 --> 100\n
 
-        sc.nextLine(); // consume left over
+        sc.nextLine(); // consume left over which is \n
 
         System.out.println("Please enter delivery address : ");
         String address = sc.nextLine();
@@ -20,6 +20,8 @@ public class ScannerExp1 {
         System.out.println("Name is : "+name);
         System.out.println("Price is : "+price);
         System.out.println("Address is : "+address);
+
+        sc.close();
     }
 }
 
