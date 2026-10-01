@@ -11,6 +11,7 @@ public class PrintNumber2 {
         System.out.println("Largest digit in number is : "+largestDigit(num));
         System.out.println("Count the occurrence of give digit in number : "+countOccurrence(num, 2));
         System.out.println("Power of number is : "+powerOfNumber(2, 5));
+        System.out.println("Armstrong number check : "+armstrongNumber(1634));
     }
 
     private static int countNumber(int n){
@@ -90,5 +91,19 @@ public class PrintNumber2 {
         }
 
         return res;
+    }
+
+    private static boolean armstrongNumber(int num){
+        int copy = num;
+        int res = 0;
+        int count = countNumber(num);
+
+        while (num > 0){
+            int rem = num % 10;
+            res += (int) Math.pow(rem, count);
+            num /= 10;
+        }
+
+        return res == copy;
     }
 }
