@@ -10,13 +10,20 @@ public class ScannerExp2 {
 
         System.out.println("Please enter the price : ");
 
-        if(sc.hasNextInt()){
+//        if(sc.hasNextInt()){
+//            price = sc.nextInt();
+//        }else{
+//            System.out.println("Please enter the valid price...");
+//        }
+
+        while (sc.hasNextInt()){
             price = sc.nextInt();
-        }else{
-            System.out.println("Please enter the valid price...");
+            System.out.println("current price is : "+price);
         }
 
-        System.out.println("Price is : "+price);
+        System.out.println("exit from loop..");
+
+//        System.out.println("Price is : "+price);
 
         sc.close();
 
