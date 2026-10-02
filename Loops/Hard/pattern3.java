@@ -2,7 +2,7 @@ package Loops.Hard;
 
 public class pattern3 {
     public static void main(String[] args) {
-        trianglePattern(5);
+        trianglePattern(4);
     }
 
     private static void trianglePattern(int n){
