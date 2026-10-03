@@ -18,6 +18,9 @@ public class PrimeNumberCheck {
         int n = 5;
         System.out.println("First "+n+" prime number : "+printFirstNPrimeNumber(n));
 
+        int prime = 13;
+        System.out.println("After prime number "+prime+" is : "+nextPrimeNumber(prime));
+
     }
 
     private static boolean checkPrime(int n){
@@ -72,6 +75,17 @@ public class PrimeNumberCheck {
         }
 
         return res;
+    }
+
+    private static int nextPrimeNumber(int n){
+        int curr = n + 1;
+
+        while (true){
+            if (checkPrime(curr)){
+                return curr;
+            }
+            curr++;
+        }
     }
 }
 
