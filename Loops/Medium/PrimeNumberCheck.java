@@ -1,8 +1,16 @@
 package Loops.Medium;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PrimeNumberCheck {
     public static void main(String[] args) {
         System.out.println(checkPrime(16));
+
+        int start = 1;
+        int end = 100;
+        System.out.println("Print All prime number in range : ("+start+", "+end+")");
+        System.out.println(printPrimeNumberInRange(start,end));
     }
 
     private static boolean checkPrime(int n){
@@ -19,9 +27,17 @@ public class PrimeNumberCheck {
         return true;
     }
 
-//    private static int printPrimeNumberInRange(int st, int end){
-//
-//    }
+    private static List<Integer> printPrimeNumberInRange(int st, int end){
+        List<Integer> arr = new ArrayList<>();
+
+        for (int i=st; i<=end;i++){
+            if (checkPrime(i)){
+                arr.add(i);
+            }
+        }
+
+        return arr;
+    }
 }
 
 
