@@ -14,6 +14,10 @@ public class PrimeNumberCheck {
 
         System.out.println("Sum of all prime number in range : ("+start+", "+end+")");
         System.out.println(sumOfPrimeNumberInRange(start, end));
+
+        int n = 5;
+        System.out.println("First "+n+" prime number : "+printFirstNPrimeNumber(n));
+
     }
 
     private static boolean checkPrime(int n){
@@ -52,6 +56,22 @@ public class PrimeNumberCheck {
         }
 
         return sum;
+    }
+
+    private static List<Integer> printFirstNPrimeNumber(int n){
+        List<Integer> res = new ArrayList<>();
+        int count = 0;
+        int i = 1;
+
+        while (count < n){
+            if (checkPrime(i)){
+                res.add(i);
+                count++;
+            }
+            i++;
+        }
+
+        return res;
     }
 }
 
