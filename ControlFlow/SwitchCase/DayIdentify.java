@@ -8,6 +8,7 @@ public class DayIdentify {
 
     private static void getDayByNumber(int num){
 
+
         switch (num){
             case 1:
                 System.out.println("Mon");
