@@ -4,7 +4,7 @@ public class CalculatorUsingSwitch {
     public static void main(String[] args) {
         Calculator cal = new Calculator();
 
-        cal.ch = '/';
+        cal.ch = '+';
         cal.calculationOperation(10, 2);
     }
 }
@@ -13,7 +13,8 @@ class Calculator{
     char ch;
 
     public void calculationOperation(int a, int b){
-        double res = 0;
+        double res;
+
         switch (ch){
             case '+':
                 res = a + b;
