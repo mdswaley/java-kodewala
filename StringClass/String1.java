@@ -2,6 +2,7 @@ package StringClass;
 
 public class String1 {
     public static void main(String[] args) {
+//        String s = args[0];
         String s1 = "MD"; // Way of creating string object like this is called string literals. This will store in String constant pool
         String s2 = "MD";
 
@@ -16,5 +17,14 @@ public class String1 {
 
 //       just bcz it created using new keyword. so it will store in different address in heap
         System.out.println(System.identityHashCode(s3)); // 1595428806
+
+        String ss = new String("MM");
+        String ss2 = new String("MM");
+
+//        it will give false bcz both are in different address just bcz of new
+        System.out.println(ss == ss2);
+
+//        here it check content
+        System.out.println(ss.equals(ss2));
     }
 }
