@@ -20,6 +20,16 @@ public class StringEquals {
         User user3 = user1;
         System.out.println(user3.equals(user1));
 
+        User user4 = new User("MD");
+        String name = "MD";
+
+//
+        System.out.println("check content : "+user4.equals(name));
+
+        String ss = new String();
+        String ss2 = new String();
+
+        System.out.println("dknd :"+ss.equals(ss2));
     }
 }
 
