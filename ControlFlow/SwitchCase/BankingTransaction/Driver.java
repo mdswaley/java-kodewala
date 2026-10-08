@@ -11,49 +11,54 @@ public class Driver {
         System.out.println("Welcome " + account.getName());
         System.out.println("Balance: " + account.getBalance());
 
-        System.out.println("\n1. Deposit");
-        System.out.println("2. Withdraw");
-        System.out.println("3. Check Balance");
-        System.out.println("4. Transfer");
-        System.out.println("5. Exit");
+        boolean running = true;
 
-        System.out.print("Enter your choice: ");
-        int choice = sc.nextInt();
+        while(running) {
 
-        switch (choice){
-            case 1 :
-                System.out.print("Enter deposit amount: ");
-                double depositAmount = sc.nextDouble();
+            System.out.println("\n1. Deposit");
+            System.out.println("2. Withdraw");
+            System.out.println("3. Account Holder Details");
+            System.out.println("4. Exit");
 
-                account.deposit(depositAmount);
+            System.out.print("Enter your choice: ");
+            int choice = sc.nextInt();
 
-                System.out.println("Deposit successful");
-                System.out.println("New Balance: " + account.getBalance());
-                break;
+            switch (choice) {
+                case 1:
+                    System.out.print("Enter deposit amount: ");
+                    double depositAmount = sc.nextDouble();
 
-            case 2:
-                System.out.println("Enter withdraw amount : ");
-                double amount = sc.nextDouble();
+                    account.deposit(depositAmount);
 
-                if (amount > account.getBalance()){
-                    System.out.println("Unsufficient balance.");
-                }else{
-                    account.withdraw(amount);
-                    System.out.println("Withdrawal successful");
+                    System.out.println("Deposit successful");
                     System.out.println("New Balance: " + account.getBalance());
-                }
-                break;
-            case 3:
-                System.out.println("Account Holder: " + account.getName());
-                System.out.println("Balance: " + account.getBalance());
-                break;
+                    break;
 
-            case 4:
-                System.out.println("Thank you!");
-                break;
+                case 2:
+                    System.out.println("Enter withdraw amount : ");
+                    double amount = sc.nextDouble();
 
-            default:
-                System.out.println("Invalid choice");
+                    if (amount > account.getBalance()) {
+                        System.out.println("Unsufficient balance.");
+                    } else {
+                        account.withdraw(amount);
+                        System.out.println("Withdrawal successful");
+                        System.out.println("New Balance: " + account.getBalance());
+                    }
+                    break;
+                case 3:
+                    System.out.println("Account Holder: " + account.getName());
+                    System.out.println("Balance: " + account.getBalance());
+                    break;
+
+                case 4:
+                    System.out.println("Thank you!");
+                    running = false;
+                    break;
+
+                default:
+                    System.out.println("Invalid choice");
+            }
         }
     }
 }
