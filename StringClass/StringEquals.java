@@ -14,7 +14,8 @@ public class StringEquals {
         User user2 = new User("MD");
 
 //        it will give false bcz both have different reference. so address is also different.
-        System.out.println(user1.equals(user2));
+//        And it uses Object class equals method
+        System.out.println("Object class equals : "+user1.equals(user2));
 
 //        here it will give true bcz user3 have user 1 object reference
         User user3 = user1;
