@@ -4,7 +4,7 @@ public class StringConcat {
     public static void main(String[] args) {
         String s = "MD";
 
-        s.concat(" Swaley"); // MD Swaley was created in heap but here we are not provide any reference bcz
+        s.concat(" Swaley"); // MD Swaley was created in heap but here we are not provide any reference
         // it will create new object. So later it will be eligible for garbage collector.
 
         s = s.concat(" Swaley"); // here s is currently pointing to MD Swaley not MD

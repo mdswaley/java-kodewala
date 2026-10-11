@@ -13,7 +13,7 @@ public class StringUsingNew {
 
         System.out.println(s3 == s4); // new keyword always create new object. So different address false
 
-        System.out.println(s3.equals(s4)); // it will always check in String is content
+        System.out.println(s3.equals(s4)); // it will always check in String content
 
 //        String is case-sensitive so if you mention s3 = "skill set" and s4 = "skill seT" it will return false
     }
