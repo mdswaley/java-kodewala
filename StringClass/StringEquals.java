@@ -24,12 +24,13 @@ public class StringEquals {
         User user4 = new User("MD");
         String name = "MD";
 
-//
+//      here object class equals have more priority than String class equals. So it check reference
         System.out.println("check content : "+user4.equals(name));
 
         String ss = new String();
         String ss2 = new String();
 
+//        For default String constructor equals will give true. bcz it store empty string "". so ss = "" and ss2 = "" --> true
         System.out.println("dknd :"+ss.equals(ss2));
     }
 }

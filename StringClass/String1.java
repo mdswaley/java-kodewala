@@ -6,7 +6,8 @@ public class String1 {
         String s1 = "MD"; // Way of creating string object like this is called string literals. This will store in String constant pool
         String s2 = "MD";
 
-        String s3 = new String("MD"); // way of creating string object is called using new keyword. This will store in heap memory
+        String s3 = new String("MD"); // way of creating string object is called using new keyword.
+        // This will store in heap memory and also origin is pointing to the scp
 
 // s1 and s2 both have same content. So scp check and create one object with same reference address. like s1 --> abc123, s2 --> abc123
         System.out.println(s1 == s2);
