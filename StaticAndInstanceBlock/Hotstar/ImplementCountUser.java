@@ -1,4 +1,4 @@
-package StaticBlock.Hotstar;
+package StaticAndInstanceBlock.Hotstar;
 
 public class ImplementCountUser {
     public static void main(String[] args) {

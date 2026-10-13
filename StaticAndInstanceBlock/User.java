@@ -1,4 +1,4 @@
-package StaticBlock;
+package StaticAndInstanceBlock;
 
 class User {
     String userName;

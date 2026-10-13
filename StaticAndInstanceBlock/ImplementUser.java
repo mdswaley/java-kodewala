@@ -1,4 +1,4 @@
-package StaticBlock;
+package StaticAndInstanceBlock;
 
 public class ImplementUser {
     public static void main(String[] args) {
