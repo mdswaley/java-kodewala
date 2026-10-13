@@ -5,9 +5,19 @@ class User {
     String userId;
     String mobileNumber;
 
+//    if you have multiple static block execute sequentially
     static {
-        System.out.println("Inside static block. It will execute only once...");
+        System.out.println("Inside static block1. It will execute only once...");
     }
+
+    static {
+        System.out.println("Inside static block2. It will execute only once...");
+    }
+
+    static {
+        System.out.println("Inside static block3. It will execute only once...");
+    }
+
 
     User(String userName, String userId, String mobileNumber){
         super(); // by default every constructor first line is either super() or this
