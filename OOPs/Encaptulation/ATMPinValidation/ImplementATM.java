@@ -17,7 +17,7 @@ public class ImplementATM {
         System.out.println("Available balance : "+res);
 
         try {
-            atm.changePin(4356, 8237); // here i have update the pin
+            atm.changePin(4356, 8237); // here I have update the pin
         } catch (AuthenticationException ex){
             System.out.println(ex.getMessage());
         }
