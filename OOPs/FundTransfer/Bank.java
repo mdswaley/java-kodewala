@@ -13,13 +13,11 @@ public class Bank {
 
     public void transferAmount(int amount){
         if (amount <= 0){
-            System.out.println("Only positive amount can transfer..");
-            return;
+            throw new RuntimeException("Only positive amount can transfer..");
         }
 
         if (amount > balance){
-            System.out.println("Insufficient balance to transfer..");
-            return;
+            throw new RuntimeException("Insufficient balance to transfer..");
         }
 
         balance -= amount;
@@ -32,5 +30,4 @@ public class Bank {
     public String getAccount_Holder_Name(){
         return account_Holder_Name;
     }
-
 }

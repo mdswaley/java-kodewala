@@ -8,9 +8,11 @@ public class ImplementBank {
 
         System.out.println("Get available balance for "+bank.getAccount_Holder_Name()+" is : "+bank.getAvailableBalance());
 
-        bank.transferAmount(-300);
+        bank.transferAmount(18300);
 
-        bank.transferAmount(1700);
+        System.out.println(bank.getAvailableBalance());
+
+//        bank.transferAmount(1700);
 
     }
 }
