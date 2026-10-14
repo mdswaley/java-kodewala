@@ -12,14 +12,12 @@ public class Payment {
         return balance;
     }
 
-    public int doDebit(int amount){
+    public void doDebit(int amount){
         if (amount > this.balance){
             throw new RuntimeException("Insufficient balance");
         }
 
         this.balance -= amount;
-
-        return balance;
     }
 
 //    Setter

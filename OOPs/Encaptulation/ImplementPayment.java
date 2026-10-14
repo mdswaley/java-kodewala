@@ -8,7 +8,12 @@ public class ImplementPayment {
 
         System.out.println("Credit the amount total available balance : "+payment.getBalance());
 
-        System.out.println(payment.doDebit(300));
+        try{
+            payment.doDebit(9000);
+        }catch (RuntimeException ex){
+            System.out.println("Transaction failed: " + ex.getMessage());
+        }
+
 
         System.out.println("debited the amount total available balance : "+payment.getBalance());
 
