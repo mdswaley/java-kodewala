@@ -1,4 +1,4 @@
-package OOPs.FundTransfer;
+package OOPs.Encaptulation.FundTransfer;
 
 public class Bank {
     private final String account_Holder_Name;

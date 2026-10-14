@@ -1,4 +1,4 @@
-package OOPs.FundTransfer;
+package OOPs.Encaptulation.FundTransfer;
 
 public class ImplementBank {
     public static void main(String[] args) {
