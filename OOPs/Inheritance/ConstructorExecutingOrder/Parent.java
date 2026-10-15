@@ -1,4 +1,4 @@
-package OOPs.Inheritance.ConstructorExcutingOrder;
+package OOPs.Inheritance.ConstructorExecutingOrder;
 
 class Parent {
     Parent(){ // so control come here and print parent constructor
