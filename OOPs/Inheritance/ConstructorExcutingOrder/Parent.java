@@ -17,3 +17,22 @@ class Main{
         Child child = new Child();
     }
 }
+
+//class Parent {
+//    int x = 10;
+//}
+//
+//class Child extends Parent {
+//    int x = 20;
+//
+//    void display() {
+//        System.out.println(x);
+//        System.out.println(super.x);
+//    }
+//}
+//
+//class Main {
+//    public static void main(String[] args) {
+//        new Child().display();
+//    }
+//}
