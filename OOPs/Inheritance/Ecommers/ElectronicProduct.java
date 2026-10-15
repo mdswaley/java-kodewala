@@ -4,7 +4,9 @@ class ElectronicProduct extends Product{
     boolean warranty;
     int warrantyInYear;
 
-    public ElectronicProduct(String productName, String description, int quantity, String status, boolean warranty, int warrantyInYear) {
+    ElectronicProduct(){}
+
+    ElectronicProduct(String productName, String description, int quantity, String status, boolean warranty, int warrantyInYear) {
         super(productName, description, quantity, status);
         this.warranty = warranty;
         this.warrantyInYear = warrantyInYear;
