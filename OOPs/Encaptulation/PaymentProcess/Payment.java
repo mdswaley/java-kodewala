@@ -1,4 +1,4 @@
-package OOPs.Encaptulation;
+package OOPs.Encaptulation.PaymentProcess;
 
 public class Payment {
     private int balance;

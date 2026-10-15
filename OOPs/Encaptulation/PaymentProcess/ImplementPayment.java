@@ -1,4 +1,4 @@
-package OOPs.Encaptulation;
+package OOPs.Encaptulation.PaymentProcess;
 
 public class ImplementPayment {
     public static void main(String[] args) {
