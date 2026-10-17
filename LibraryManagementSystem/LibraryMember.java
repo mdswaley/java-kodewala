@@ -14,10 +14,16 @@ class LibraryMember {
     }
 
     public void setMemberID(String memberID){
+        if (memberID == null){
+            throw new RuntimeException("memberID cannot be null");
+        }
         this.memberID = memberID;
     }
 
     public void setMemberName(String memberName){
+        if (memberName == null){
+            throw new RuntimeException("memberName cannot be null");
+        }
         this.memberName = memberName;
     }
 
