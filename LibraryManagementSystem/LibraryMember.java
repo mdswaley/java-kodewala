@@ -13,6 +13,10 @@ class LibraryMember {
         totalMember++;
     }
 
+    public String displayDetails(){
+        return "Member ID : "+memberID+" Member Name : "+memberName;
+    }
+
     public void setMemberID(String memberID){
         if (memberID == null){
             throw new RuntimeException("memberID cannot be null");
