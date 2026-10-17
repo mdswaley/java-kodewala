@@ -3,14 +3,14 @@ package LibraryManagementSystem;
 class LibraryMember {
     private String memberID;
     private String memberName;
-    static int totalMember;
+    static int totalMembers = 0;
 
     static {
         System.out.println("Initialize Library Member");
     }
 
     {
-        totalMember++;
+        totalMembers++;
     }
 
     public String displayDetails(){
@@ -18,15 +18,15 @@ class LibraryMember {
     }
 
     public void setMemberID(String memberID){
-        if (memberID == null){
-            throw new RuntimeException("memberID cannot be null");
+        if (memberID == null || memberID.isBlank()){
+            throw new IllegalArgumentException("Member ID cannot be empty");
         }
         this.memberID = memberID;
     }
 
     public void setMemberName(String memberName){
-        if (memberName == null){
-            throw new RuntimeException("memberName cannot be null");
+        if (memberName == null || memberName.isBlank()){
+            throw new RuntimeException("Member name cannot be empty");
         }
         this.memberName = memberName;
     }
