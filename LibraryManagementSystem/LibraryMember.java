@@ -9,6 +9,10 @@ class LibraryMember {
         System.out.println("Initialize Library Member");
     }
 
+    static {
+        System.out.println("Another static block");
+    }
+
     {
         totalMembers++;
     }
