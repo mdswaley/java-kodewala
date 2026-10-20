@@ -14,6 +14,7 @@ class SavingAccount extends Accounts{
 //    Access modifier --> should be same or wider ( public --> public,
 //    protected --> public, default --> protected etc)
 
+//    introduce in java 5
     @Override // we are telling compiler that- i am overriding the method. please check all the rules.
     void openAccount(){
         System.out.println("SavingAccount.openAccount()...");
