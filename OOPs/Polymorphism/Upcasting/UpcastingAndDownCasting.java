@@ -1,4 +1,4 @@
-package OOPs.Polymorphism;
+package OOPs.Polymorphism.Upcasting;
 
 class UpcastingAndDownCasting {
     public static void main(String[] args) {
