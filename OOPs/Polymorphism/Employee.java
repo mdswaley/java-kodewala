@@ -1,4 +1,4 @@
-package OOPs.Polymorphyism;
+package OOPs.Polymorphism;
 
 class Employee {
     public void markIn(){
