@@ -11,6 +11,7 @@ class Person {
 	@Override
 	public boolean equals(Object obj) // Object obj = new Person("Swaley");
 	{
+
         // The equals() method accepts an Object reference.
         // Object obj = p2;  // Upcasting happens automatically.
 
