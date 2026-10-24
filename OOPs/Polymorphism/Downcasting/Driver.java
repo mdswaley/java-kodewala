@@ -17,10 +17,12 @@ class Person {
         // Downcasting: converting the Object reference into a Person reference.
         // This allows us to access Person-specific members like name.
         Person p = (Person) obj;
+
         // Compare the names of both Person objects.
         // p.name is "Swaley" and this.name is "MD".
         // Since the names are different, it returns false.
 		return p.name.equals(this.name);
+
 	}
 
 }
