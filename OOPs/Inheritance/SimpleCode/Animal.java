@@ -1,12 +1,20 @@
 package OOPs.Inheritance.SimpleCode;
 
 class Animal {
+    /**
+     * Makes a sound.
+     *
+     * @return the sound made by the animal
+     */
     String sound(){
         return "Animal sound";
     }
 }
 
 class Dog extends Animal{
+    /**
+     * {@inheritDoc}
+     */
     @Override
     String sound(){
         return "Dog sound";
