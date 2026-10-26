@@ -14,6 +14,8 @@ class Animal {
 class Dog extends Animal{
     /**
      * {@inheritDoc}
+     *
+     * @return should be same as parent only except covariant return type
      */
     @Override
     String sound(){
