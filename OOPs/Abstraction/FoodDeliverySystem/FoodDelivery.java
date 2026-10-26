@@ -12,18 +12,25 @@ class FoodDelivery {
         }
     }
 
-    boolean confirmOrder(){
+    private boolean confirmOrder(){
         System.out.println("Order is confirm");
         return true;
     }
 
-    String assignDeliveryPartner(){
+    private String assignDeliveryPartner(){
         System.out.println("Assigning Delivery partner");
         return "Raaj";
     }
 
-    void trackLocation(){
+    private void trackLocation(){
         System.out.println("Tracking location");
+    }
+}
+
+class Main{
+    public static void main(String[] args) {
+        FoodDelivery foodDelivery = new FoodDelivery();
+        foodDelivery.deliveryOrder();
     }
 }
 
