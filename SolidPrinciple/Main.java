@@ -5,5 +5,7 @@ public class Main {
         ProcessTheOrder processTheOrder = new ProcessTheOrder();
 
         processTheOrder.processingOrder(new VivoV23());
+
+        processTheOrder.processingOrder(new VivoV80New());
     }
 }
