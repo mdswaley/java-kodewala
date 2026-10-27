@@ -1,4 +1,4 @@
-package SolidPrinciple;
+package SolidPrinciple.SOExplain;
 
 class VivoS1 extends VivoModel {
 

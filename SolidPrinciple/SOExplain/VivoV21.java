@@ -1,4 +1,4 @@
-package SolidPrinciple;
+package SolidPrinciple.SOExplain;
 
 class VivoV21 extends VivoModel {
     @Override

@@ -1,4 +1,4 @@
-package SolidPrinciple;
+package SolidPrinciple.SOExplain;
 
 public class Main {
     public static void main(String[] args) {

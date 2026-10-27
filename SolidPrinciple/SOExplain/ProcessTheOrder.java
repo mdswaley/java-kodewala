@@ -1,4 +1,4 @@
-package SolidPrinciple;
+package SolidPrinciple.SOExplain;
 
 class ProcessTheOrder {
 
