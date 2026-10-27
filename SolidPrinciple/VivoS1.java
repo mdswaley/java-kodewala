@@ -1,6 +1,6 @@
 package SolidPrinciple;
 
-class VivoS1 extends VivoBrand{
+class VivoS1 extends VivoModel {
 
     @Override
     public void deviceFeature(){
