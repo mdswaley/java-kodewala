@@ -1,4 +1,4 @@
-package Interface;
+package Interface.BookingSystem;
 
 public class FlightBooking implements IDiscount{
     @Override

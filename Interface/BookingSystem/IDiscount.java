@@ -1,4 +1,4 @@
-package Interface;
+package Interface.BookingSystem;
 
 public interface IDiscount {
 //    public abstract int calculateDiscount --> behind the seen it happen you don't need to add

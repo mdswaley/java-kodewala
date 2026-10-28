@@ -1,4 +1,4 @@
-package Interface;
+package Interface.BookingSystem;
 
 class Main {
     public static void main(String[] args) {
