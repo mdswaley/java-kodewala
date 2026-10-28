@@ -1,10 +1,11 @@
 package Interface.NotificationSystem;
 
+// EmailNotification IS-A type of Notification
 public class EmailNotification implements Notification{
 
     private final User user;
 
-    EmailNotification(User user){
+    EmailNotification(User user){ // email notification belong to User
         this.user = user;
     }
 

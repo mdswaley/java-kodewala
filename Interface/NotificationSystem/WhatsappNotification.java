@@ -1,10 +1,11 @@
 package Interface.NotificationSystem;
 
+// whatsappNotification IS-A type of Notification
 public class WhatsappNotification implements Notification{
 
     private final User user;
 
-    WhatsappNotification(User user) {
+    WhatsappNotification(User user) { // whatsapp notification belong to User
         this.user = user;
     }
 

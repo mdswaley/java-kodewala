@@ -1,10 +1,11 @@
 package Interface.NotificationSystem;
 
+// LinkedInNotification IS-A type of Notification
 public class LinkedInNotification implements Notification{
 
     private final User user;
 
-    LinkedInNotification(User user) {
+    LinkedInNotification(User user) { // LinkedIn notification belong to User
         this.user = user;
     }
 
