@@ -1,12 +1,15 @@
 package Interface.NotificationSystem;
 
-public class WhatsappNotification extends User implements Notification{
-    WhatsappNotification(String name) {
-        super(name);
+public class WhatsappNotification implements Notification{
+
+    private final User user;
+
+    WhatsappNotification(User user) {
+        this.user = user;
     }
 
     @Override
     public void sendNotification() {
-        System.out.println("Sending notification using whatsapp to : "+this.name);
+        System.out.println("Sending notification using whatsapp to : "+user.getName());
     }
 }

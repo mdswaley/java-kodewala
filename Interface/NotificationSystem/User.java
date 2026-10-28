@@ -1,9 +1,13 @@
 package Interface.NotificationSystem;
 
 public class User {
-    String name;
+    private final String name;
 
     User(String name){
         this.name = name;
+    }
+
+    public String getName(){
+        return name;
     }
 }
