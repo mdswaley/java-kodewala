@@ -26,17 +26,31 @@ public class Consultation implements IPayable {
     }
 
     @Override
-    public void processPayment() {
+    public boolean processPayment() {
+        if (paymentCompleted) {
+            System.out.println("Payment has already been completed.");
+            return true;
+        }
 
+        paymentCompleted = true;
+        System.out.println("Payment successful: ₹" + serviceCharge());
+        return true;
     }
 
     @Override
-    public void serviceCharge() {
-
+    public double serviceCharge() {
+        return doctor.getConsultationFee();
     }
 
     @Override
     public void cancelAppointment() {
-
+        if (appointmentBooked && !paymentCompleted) {
+            appointmentBooked = false;
+            System.out.println("Appointment cancelled successfully.");
+        } else if (paymentCompleted) {
+            System.out.println("Payment has been completed. Process a refund before cancellation.");
+        } else {
+            System.out.println("No appointment exists to cancel.");
+        }
     }
 }

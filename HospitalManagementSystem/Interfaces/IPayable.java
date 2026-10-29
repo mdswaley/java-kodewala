@@ -1,7 +1,7 @@
 package HospitalManagementSystem.Interfaces;
 
 public interface IPayable extends IHospitalService{
-    void processPayment();
+    boolean processPayment();
 
-    void serviceCharge();
+    double serviceCharge();
 }
