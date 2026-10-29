@@ -1,4 +1,4 @@
-package HospitalManagementSystem.Service;
+package HospitalManagementSystem.Interfaces;
 
 public interface IReportable {
     void generateMedicalReport();
