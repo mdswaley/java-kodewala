@@ -1,4 +1,4 @@
-package TrickeyQuestions;
+package TrickyQuestions;
 
 class Order {
     void process(long orderId) { // this is primitive type so process(100) give smaller data first
