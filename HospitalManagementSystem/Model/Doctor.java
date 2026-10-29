@@ -1,7 +1,6 @@
 package HospitalManagementSystem.Model;
 
 public class Doctor extends Person{
-
     private String specialization;
     private double consultationFee;
 
@@ -11,11 +10,22 @@ public class Doctor extends Person{
         this.consultationFee = consultationFee;
     }
 
-
     @Override
     public void displayRoleSpecificDetails() {
         System.out.println("Role: Doctor");
         System.out.println("Specialization: " + specialization);
         System.out.println("Consultation Fee: ₹" + consultationFee);
+    }
+
+    public void displayAvailability() {
+        System.out.println("Doctor is available for appointments.");
+    }
+
+    public double getConsultationFee() {
+        return consultationFee;
+    }
+
+    public String getSpecialization() {
+        return specialization;
     }
 }
