@@ -11,6 +11,9 @@ public interface IBooking {
 //    for that java introduce default method in java 1.8 (2020)
 //    default method must have body
 
+    /**
+     * @since 1.8
+     */
     default void autoUpgrade(){
         System.out.println("IBooking.autoUpgrade()...");
     }
@@ -19,6 +22,9 @@ public interface IBooking {
 //    so in java 8 introduce static method
 //    we can add in interface itself and other classes can assess it
 
+    /**
+     * @since 1.8
+     */
     static void printTicket(){
         System.out.println("Printing ticket");
     }
@@ -28,10 +34,16 @@ public interface IBooking {
 //    if in future sendNotification() add they also need to connect with database
 //    so java 9 introduce private method inside interface
 
+    /**
+     * @since 1.8
+     */
     default void sendNotification(){
         System.out.println("Sending notification");
     }
 
+    /**
+     * @since 1.9
+     */
     private void connectDB(){
         System.out.println("connecting DB");
     }
