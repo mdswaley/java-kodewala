@@ -22,4 +22,18 @@ public interface IBooking {
     static void printTicket(){
         System.out.println("Printing ticket");
     }
+
+//    after default method there is maybe a code duplicate
+//    like autoUpgrade() need to connect with database
+//    if in future sendNotification() add they also need to connect with database
+//    so java 9 introduce private method inside interface
+
+    default void sendNotification(){
+        System.out.println("Sending notification");
+    }
+
+    private void connectDB(){
+        System.out.println("connecting DB");
+    }
+
 }
