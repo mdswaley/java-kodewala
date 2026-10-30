@@ -20,4 +20,9 @@ public class BusBooking implements IBooking{
     public void search() {
         System.out.println("source to destination of Bus");
     }
+
+    //    here we're printing the common functionality
+    public void printTicket(){
+        IBooking.printTicket();
+    }
 }

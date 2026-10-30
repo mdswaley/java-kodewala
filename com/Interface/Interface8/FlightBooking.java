@@ -20,4 +20,9 @@ public class FlightBooking implements IBooking{
     public void search() {
         System.out.println("source to destination of Flight");
     }
+
+    //    here we're printing the common functionality
+    public void printTicket(){
+        IBooking.printTicket();
+    }
 }

@@ -25,4 +25,9 @@ public class TrainBooking implements IBooking{
     public void autoUpgrade() {
         System.out.println("autoUpgrade feature for Train Booking");
     }
+
+//    here we're printing the common functionality
+    public void printTicket(){
+        IBooking.printTicket();
+    }
 }
