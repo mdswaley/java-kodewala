@@ -5,7 +5,7 @@ package com.Interface.Interface8.FunctionalInterfaceEx;
 public interface IAccount {
     void openAccount(); // Functional Interface :- having only one abstract method - SAM (Single abstract Method)
 
-//    there can be a multiple other method (static and default). But still it is SAM.
+//    there can be a multiple other method (static, default and private). But still it is SAM.
     default void addBenefits(){
         System.out.println("Benefits...");
     }
