@@ -2,8 +2,11 @@ package com.Interface.Interface8;
 
 public interface IBooking {
     void book();
+
     void cancelBooking();
+
     void checkStatus();
+
     void search();
 
 //    suppose in future requirement to add autoUpgrade() which is only for Train
@@ -14,7 +17,7 @@ public interface IBooking {
     /**
      * @since 1.8
      */
-    default void autoUpgrade(){
+    default void autoUpgrade() {
         System.out.println("IBooking.autoUpgrade()...");
     }
 
@@ -25,7 +28,7 @@ public interface IBooking {
     /**
      * @since 1.8
      */
-    static void printTicket(){
+    static void printTicket() {
         System.out.println("Printing ticket");
     }
 
@@ -37,14 +40,14 @@ public interface IBooking {
     /**
      * @since 1.8
      */
-    default void sendNotification(){
+    default void sendNotification() {
         System.out.println("Sending notification");
     }
 
     /**
      * @since 1.9
      */
-    private void connectDB(){
+    private void connectDB() {
         System.out.println("connecting DB");
     }
 
