@@ -12,6 +12,9 @@ public class Main {
 
         Message message = (Message) ois.readObject();
 
-        System.out.println(message.getMessage());
+        System.out.println(message.getMessage()+" from user : "+message.getUserName());
+//        O/P:- Hello from MD from user : null
+//        userName is null bcz at the time of serialization we make userName field to transient. means not going to share or serializable
+//        for security purpose like password or any other sensitive value
     }
 }
