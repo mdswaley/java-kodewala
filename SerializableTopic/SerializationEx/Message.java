@@ -8,7 +8,7 @@ public class Message implements Serializable {
 //    so that when anyone de-serialize this object can use latest version of serialize object
 
     private String message;
-    private String userName;
+    private transient String userName;  // transient means skip the serialize process. means userName is not going to share with others
 
     Message(String message, String userName){
         this.message = message;
