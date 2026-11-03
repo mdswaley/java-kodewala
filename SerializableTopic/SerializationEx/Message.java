@@ -3,6 +3,10 @@ package SerializableTopic.SerializationEx;
 import java.io.Serializable;
 
 public class Message implements Serializable {
+    private final static long serialVersionUID = 1L; // serialVersionUID is track every modification
+//    after modification if you add seralVersionUID good to change number
+//    so that when anyone de-serialize this object can use latest version of serialize object
+
     private String message;
     private String userName;
 
