@@ -15,7 +15,7 @@ public class FileUtil {
     }
 
     public static List<Student> loadStudents() throws IOException, ClassNotFoundException {
-        FileInputStream fis = new FileInputStream("student.ser");
+        FileInputStream fis = new FileInputStream("C:\\Users\\mdswa\\Desktop\\KodeWala(Java)\\student.ser");
         ObjectInputStream oos = new ObjectInputStream(fis);
 
         List<Student> res = (List<Student>) oos.readObject();
