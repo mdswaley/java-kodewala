@@ -37,7 +37,7 @@ public class StudentService {
     }
 
     // Update Student
-    public void updateStudent(int id, String name, String course) {
+    public void updateStudent(long id, String name, String course) {
 
         for (Student student : students) {
 
