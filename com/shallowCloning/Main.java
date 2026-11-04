@@ -13,3 +13,10 @@ public class Main {
         System.out.println(cloneEmp.address.city);
     }
 }
+
+// shallow copy means copy only the first level of object
+// like in our case we have Employee class having name, empCode and address
+// but shallow copy will copy the object till empCode not address
+// bcz Address is a nested object
+// so only reference copy for address
+// means previous address and copy address both pointing to the same location in heap
