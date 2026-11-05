@@ -1,9 +1,7 @@
 package projects.studentRecordBackup;
 
 public class ScholarshipStudent extends Student implements SpecialBenefits{
-
-    public ScholarshipStudent(String id, String userName, String courseName, String gender, Long fees, Address address) {
-        super(id, userName, courseName, gender, fees, address);
+    public ScholarshipStudent(Long id, String name, String course, double marks, Address address) {
+        super(id, name, course, marks, address);
     }
-
 }
