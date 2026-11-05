@@ -1,61 +1,50 @@
 package projects.studentRecordBackup;
 
 public class Student {
-    private String id;
-    private String userName;
-    private String courseName;
-    private String gender;
-    private Long fees;
+    private Long id;
+    private String name;
+    private String course;
+    private double marks;
     private Address address;
 
-
-    public Student(String id, String userName, String courseName, String gender, Long fees, Address address) {
+    public Student(Long id, String name, String course, double marks, Address address) {
         this.id = id;
-        this.userName = userName;
-        this.courseName = courseName;
-        this.gender = gender;
-        this.fees = fees;
+        this.name = name;
+        this.course = course;
+        this.marks = marks;
         this.address = address;
     }
 
-    public String getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getName() {
+        return name;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getCourseName() {
-        return courseName;
+    public String getCourse() {
+        return course;
     }
 
-    public void setCourseName(String courseName) {
-        this.courseName = courseName;
+    public void setCourse(String course) {
+        this.course = course;
     }
 
-    public String getGender() {
-        return gender;
+    public double getMarks() {
+        return marks;
     }
 
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public Long getFees() {
-        return fees;
-    }
-
-    public void setFees(Long fees) {
-        this.fees = fees;
+    public void setMarks(double marks) {
+        this.marks = marks;
     }
 
     public Address getAddress() {
@@ -64,5 +53,16 @@ public class Student {
 
     public void setAddress(Address address) {
         this.address = address;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", course='" + course + '\'' +
+                ", marks=" + marks +
+                ", address=" + address +
+                '}';
     }
 }
