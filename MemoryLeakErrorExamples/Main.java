@@ -1,5 +1,11 @@
-package garbagecollectorex;
+package MemoryLeakErrorExamples;
 
+
+/**
+ * understanding about memory leak error.
+ * if you have un-wanted objects in heap area
+ * there is a change you will get memory leak error
+ * */
 public class Main {
 //    we make it instance level
 //    bcz if we add in method then after method call is done it will go
@@ -21,6 +27,14 @@ public class Main {
 //        bcz gc will never remove objects till the reference is null
 
         employee = null;
+
+//        what are the ways to avoid outOfMemory error
+//        1. increase the heap size if possible --> workaround
+//        2. Restart the application --> workaround
+
+//        useful one is --> ThreadDump
+
+//        ThreadDump --> if out of memory error, please capture the thread dump.
 
     }
 }

@@ -1,4 +1,4 @@
-package garbagecollectorex;
+package MemoryLeakErrorExamples;
 
 public class Employee {
     String name;
