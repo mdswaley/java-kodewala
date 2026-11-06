@@ -35,6 +35,19 @@ public class Main {
 //        useful one is --> ThreadDump
 
 //        ThreadDump --> if out of memory error, please capture the thread dump.
+        /*
+        * What is a Thread Dump in Java?
+            A Thread Dump is a snapshot of all the threads running inside your Java application at a particular moment.
+
+            It tells you:
+            - Which threads are currently running.
+            - Which threads are waiting.
+            - Which threads are blocked.
+            - Which threads are sleeping.
+            - Which thread is consuming time or stuck.
+            - Whether deadlock has occurred.
+
+            * *  */
 
     }
 }
