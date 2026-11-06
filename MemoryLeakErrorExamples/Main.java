@@ -49,5 +49,16 @@ public class Main {
 
             * *  */
 
+
+        // Difference between Thread Dump and Heap Dump
+
+//        Thread Dump	                        Heap Dump
+//        Captures thread information	        Captures heap objects
+//        Shows thread states	                Shows object references
+//        Helps debug deadlocks	                Helps debug memory leaks
+//        Shows stack traces	                Shows object sizes
+//        Usually smaller file	                Can be very large
+//        .txt output commonly	                .hprof file commonly
+
     }
 }
