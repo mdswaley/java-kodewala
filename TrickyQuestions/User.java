@@ -2,7 +2,8 @@ package TrickyQuestions;
 
 
 /**
- * The reason is that static methods declared inside an interface are not inherited by implementing classes
+ * The reason is that static methods declared inside an interface are
+ * not inherited by implementing classes
  * and cannot be accessed through an instance reference.
  */
 interface User {
