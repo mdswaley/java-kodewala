@@ -19,7 +19,7 @@ public class DynamicSQL {
 
         StringBuilder sb = new StringBuilder("SELECT * FROM EMPLOYEE WHERE 1=1");
 
-        if (department != null){
+        if (!department.isBlank()){
             sb.append(" AND department = '").append(department).append("'");
         }
 
@@ -27,7 +27,7 @@ public class DynamicSQL {
             sb.append(" AND salary = ").append(salary);
         }
 
-        if (date != null){
+        if (!date.isBlank()){
             sb.append(" AND joiningDate = '").append(date).append("'");
         }
 
