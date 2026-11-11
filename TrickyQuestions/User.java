@@ -27,7 +27,7 @@ class Main3{
 //        this give compilation error bcz we can't create object of interface
 //        user.displayDetails();
 
-//        we need to access it directly
+//        we need to access it directly with interface name User
         User.displayDetails();
     }
 }

@@ -12,7 +12,6 @@ public class DynamicSQL {
         System.out.println("Enter Salary : ");
         double salary = sc.nextDouble();
 
-
         sc.nextLine();
 
         System.out.println("Enter joining Date : ");
