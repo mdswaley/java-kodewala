@@ -1,5 +1,6 @@
 package SealedAndPermits;
 
+// sealed and permits are introduce in java 17
 public sealed interface Payment permits UPIPayment, CardPayment{
 }
 
