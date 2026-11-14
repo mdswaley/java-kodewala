@@ -7,6 +7,7 @@ public sealed interface Payment permits UPIPayment, CardPayment{
 // If the sealed class and its permitted subclasses are declared in the same source file,
 // Java can identify the subclasses automatically.
 
+
 sealed class A{
 
 }
