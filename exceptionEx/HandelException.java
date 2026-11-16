@@ -1,5 +1,8 @@
 package exceptionEx;
 
+/**
+ * Handel Exception using try-catch
+ */
 public class HandelException {
     public static void main(String[] args) {
         System.out.println("--- START ---");
