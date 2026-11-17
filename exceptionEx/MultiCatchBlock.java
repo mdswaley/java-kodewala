@@ -24,7 +24,13 @@ public class MultiCatchBlock {
             System.out.println("index doesn't exist.");
             e.printStackTrace();
         }
-        catch (Exception e){ // Exception is a parent of all the exception. so here is down-cast happening
+
+//        if you add Exception catch block on the top of all other catch block. Then there is compiled error
+//        bcz Exception going to handle all the other exception.
+//        so other exception are not reachable
+
+        catch (Exception e){ // Exception is a parent of all the exception. so here is down-cast happening.
+            // e.i Exception e = new ArithmeticException();
             System.out.println("Unknown exception.");
             e.printStackTrace();
         }
