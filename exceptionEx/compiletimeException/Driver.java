@@ -1,5 +1,9 @@
 package exceptionEx.compiletimeException;
 
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+
 /**
  * Checked Exception / Compile time Exception
  * */
@@ -12,6 +16,14 @@ public class Driver {
         try {
 
             Class.forName(className);
+
+//            here IOException and FileNotFoundException are checked exception
+//            we are not catching FileNotFoundException bcz it is subclass of IOException
+//            try {
+//                ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("sd"));
+//            } catch (IOException e) {
+//                throw new RuntimeException(e);
+//            }
 
             System.out.println("class loaded...");
 
