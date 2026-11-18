@@ -3,8 +3,10 @@ package exceptionEx.compiletimeException;
 import java.time.Duration;
 
 /**
- * Good to debug if you want to remember
- * */
+ * Good to debug if you want to remember.
+ *
+ * @Flow :- FlowScreenShort.MultiThreadInterrupt.png
+ */
 public class MutiThreadException {
     public static void main(String[] args) {
 //        here we have 2 threads (main, Thread-0 (child thread))
