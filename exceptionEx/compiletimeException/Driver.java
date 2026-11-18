@@ -18,6 +18,7 @@ public class Driver {
             Class.forName(className);
 
 //            here IOException and FileNotFoundException are checked exception
+//            these are very critical activity. so developer should handle it. That's why compiler force to add try-catch or throw it.
 //            we are not catching FileNotFoundException bcz it is subclass of IOException
 //            try {
 //                ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("sd"));
