@@ -1,9 +1,5 @@
 package exceptionEx.compiletimeException;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
-
 /**
  * Checked Exception / Compile time Exception
  * */
