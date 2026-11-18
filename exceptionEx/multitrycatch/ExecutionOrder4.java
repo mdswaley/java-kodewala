@@ -21,3 +21,5 @@ public class ExecutionOrder4 {
         // because the exception propagates to the JVM.
     }
 }
+
+// Execution Order :- A -> C -> System exit
