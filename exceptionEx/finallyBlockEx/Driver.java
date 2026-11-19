@@ -21,9 +21,12 @@ public class Driver {
             e.printStackTrace();
         } finally {
              finalAmt = 110;
-//            return finalAmt; // but if i add here then return value will override which is 90 become 110
+            return finalAmt; // but if i add here then return value will override which is 90 become 110
         }
 
-        return finalAmt;
+//        return finalAmt;
     }
 }
+
+// The finally block always executes before the method actually completes, even if there is a return
+// statement inside the try or catch block.
