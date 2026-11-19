@@ -44,7 +44,7 @@ public class FileValidator {
     }
 
     public static void validateFileExists(File file) throws FileNotFoundException{
-        if (!file.exists() || file.isFile()){
+        if (!file.exists() || !file.isFile()){
             throw new FileNotFoundException("File does not exist.");
         }
     }
