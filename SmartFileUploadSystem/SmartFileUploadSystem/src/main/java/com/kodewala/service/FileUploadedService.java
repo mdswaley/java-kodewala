@@ -48,4 +48,19 @@ public class FileUploadedService {
 
         return uploadedFile;
     }
+
+    public void displayUploadedFiles()
+    {
+        if (uploadedFiles.isEmpty()) {
+            System.out.println("No files uploaded yet.");
+            return;
+        }
+
+        System.out.println("\n========== UPLOADED FILES ==========");
+
+        for (UploadedFile file : uploadedFiles) {
+            System.out.println(file);
+            System.out.println("--------------------------------");
+        }
+    }
 }
