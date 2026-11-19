@@ -8,7 +8,7 @@ public class Driver {
 
         try {
             paymentMgmt.doPayment("SBI-3453343", 200);
-        } catch (Exception e){
+        } catch (FundTransferException e){ // if, catch (Exception e) means Exception e = new FundTransferException();
             e.printStackTrace();
         }
 
