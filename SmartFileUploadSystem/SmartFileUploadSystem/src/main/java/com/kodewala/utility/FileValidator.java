@@ -1,8 +1,12 @@
 package com.kodewala.utility;
 
+import com.kodewala.exception.DuplicateFileException;
 import com.kodewala.exception.FileSizeExceededException;
 import com.kodewala.exception.InvalidFileNameException;
 import com.kodewala.exception.UnsupportedFileTypeException;
+
+import java.io.File;
+import java.io.FileNotFoundException;
 
 public class FileValidator {
     private static final double MAX_FILE_SIZE = 5.0;
@@ -21,7 +25,7 @@ public class FileValidator {
         }
     }
 
-    public static void validateFileType(String fileName) {
+    public static void validateFileType(String fileName) throws UnsupportedFileTypeException{
         String lcn = fileName.toLowerCase();
 
         for (String extension : ALLOWED_EXTENSIONS){
@@ -31,5 +35,17 @@ public class FileValidator {
         }
 
         throw new UnsupportedFileTypeException("Only PDF, JPG and PNG files are allowed!");
+    }
+
+    public static void validateDuplicateFile(File file) throws DuplicateFileException{
+        if (file.exists() || file.isFile()){
+            throw new DuplicateFileException("File already exists.");
+        }
+    }
+
+    public static void validateFileExists(File file) throws FileNotFoundException{
+        if (!file.exists() || file.isFile()){
+            throw new FileNotFoundException("File does not exist.");
+        }
     }
 }
