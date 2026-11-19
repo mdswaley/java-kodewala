@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.kilo/.kilo.iml" filepath="$PROJECT_DIR$/.kilo/.kilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KodeWala(Java).iml" filepath="$PROJECT_DIR$/KodeWala(Java).iml" />
+    </modules>
+  </component>
+</project>

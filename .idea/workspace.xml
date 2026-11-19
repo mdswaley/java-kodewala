@@ -5,816 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b708e3ce-e734-4959-90c9-c2fc55ca914f" name="Changes" comment="ExecutionOrder6">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.kilo/.kilo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/Client1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/EmployeeData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/GetEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/OwnerEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessModifier/OwnerEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Array1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/SBIBank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/SBIBankMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/StudentData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/StudentDataMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankingSystem/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankingSystem/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankingSystem/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankingSystem/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/BookingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/BookingCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/CmdLineArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/CmdLineArgs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/EmployeeSalaryInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/EmployeeSalaryInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/Grocery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/Grocery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/OrderInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/OrderInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/OutfitDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/OutfitDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/ProcessFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/ProcessFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/ShoppingCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommandLinePractice/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Accounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/AmazonUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/BuyNow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/ElectronicProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/OutfitProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/AmazonApp/Signup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Booked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Booking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/ConstructorChaining.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/ConstructorChainingUsingSuper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/ConstructorHierarchy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/CopyConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/CreateAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/CreateUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/ProductDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/RectangleObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructor/UserProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/CabFare/CabFareCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/CabFare/CabFareCalculatorMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/FlightTicketBookingRepo/FlightTicketBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/FlightTicketBookingRepo/FlightTicketBookingMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/MakeMyTripRepo/MakeMyTrip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/MakeMyTripRepo/MakeMyTripMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/RestaurantBill/RestaurantBill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/RestaurantBill/RestaurantBillMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/BankingTransaction/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/BankingTransaction/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/CalculatorUsingSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/DayIdentify.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/ECommerceDiscount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/NumberToWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow/SwitchCase/VowelOrConsonant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/BooleanExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/BooleanExp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/ByteExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/ByteExp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/CheckStringEquals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/ResourceNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/StringExp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deserialization/ReadObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deserialization/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deserialization/WriteObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalKeyword/Employees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowScreenShort/MultiThreadInterrupt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Interfaces/IHospitalService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Interfaces/IPayable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Interfaces/IReportable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Model/Doctor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Model/Patient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Model/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Service/Consultation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Service/LabTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HospitalManagementSystem/Service/MedicalReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KodeWala(Java).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagementSystem/FacultyMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagementSystem/LibraryMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagementSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagementSystem/StudentMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Basics/DoWhileLoopEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Basics/PrintNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Basics/WhileLoopExp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Hard/Pattern1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Hard/Pattern2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Hard/pattern3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Medium/PrimeNumberCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Medium/PrintNumber2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MemoryLeakErrorExamples/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MemoryLeakErrorExamples/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/AddTwoNumberUsingMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/AddTwoNumberUsingMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/CalculateTotalPrice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/CheckEvenOrOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/CheckEvenOrOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/CountOccorenceOfChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/FactorialNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/FindMaximumThreeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/FindSecondLargestEle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/FundTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/PalindromNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/PrimeNumberCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/SumOfArrayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/TransactionInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/ValidateInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method/methodhiding/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/ATMSystem/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/ATMSystem/ImplementATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/FoodDeliverySystem/FoodDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/OnlineTicketBooking/TicketBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/OrderPlacementSystem/ImplementOrderPlace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/OrderPlacementSystem/OrderPlace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Abstraction/SimpleCode/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/ATMPinValidation/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/ATMPinValidation/ImplementATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/DigitalParkingMeter/ParkingMeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/EmployeeSalaryManagement/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/EmployeeSalaryManagement/ImplementEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/FundTransfer/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/FundTransfer/ImplementBank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/PaymentProcess/ImplementPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/PaymentProcess/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/ProductStockManagement/ImplementProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/ProductStockManagement/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Encaptulation/SimpleCode/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/AccessingParentProperties/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/BankDetails/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/BankDetails/ImplementSavingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/BankDetails/SavingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/ConstructorExecutingOrder/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/DifferentTypeOfInheritance/HierarchicalInheritance/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/DifferentTypeOfInheritance/MultilevelInheritance/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/DifferentTypeOfInheritance/SingleInheritance/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/Disadvantages/Accounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/Ecommers/ClothingProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/Ecommers/ElectronicProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/Ecommers/ImplementProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/Ecommers/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/EmployeeManagement/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/MultilevelInheritance/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/SimpleCode/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/SingleInheritance/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/SingleInheritance/ImplementVehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Inheritance/SingleInheritance/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Overloading/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Overloading/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Overriding/Accounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Overriding/Outfit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/OverridingAndOverloading/EmployeeSalary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/OverridingAndOverloading/Notification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/OverridingAndOverloading/PaymentSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Downcasting/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Downcasting/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Downcasting/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/Auto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/ProcessVehicleRide.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/Suv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/RideBookingSystem/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/SimpleCode/Delivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Upcasting/DeliveryPartner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Upcasting/Ride.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/Polymorphism/Upcasting/UpcastingAndDownCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/AndOrOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/AndOrOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/DivisibleBy3And5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/DivisibleBy3And5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/DlEligibility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/DlEligibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/OnlineDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/PositiveAndEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/PositiveAndEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/TemperatureCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/TemperatureCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/TernaryOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExamples/GuessTheNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExamples/ScannerExp1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExamples/ScannerExp2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SealedAndPermits/CardPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SealedAndPermits/NetBankingPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SealedAndPermits/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SealedAndPermits/UPIPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/DeserializationEx/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/SerializationEx/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/SerializationEx/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/SerializationEx/SerializeMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/StudentManagementSystem/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/StudentManagementSystem/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerializableTopic/StudentManagementSystem/util/FileUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shortcuts/s1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/ProcessTheOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/VivoModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/VivoS1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/VivoV21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/VivoV23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain/VivoV80New.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/AltoK10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/MarutiSuzukiModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/ProcessCarModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/Swift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/SOExplain2/WagonR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/AccountManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Hotstar/CountUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Hotstar/ImplementCountUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/ImplementUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Practice/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Practice/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Practice/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/Practice/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticAndInstanceBlock/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/DynamicSQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/GenerateQuery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/StringBufferMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/StringBuilderEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/StringBuilderForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderAndBuffer/UserQuery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/CheckPalindromeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/ConvertFirstCharToUpperCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/CountCharInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/CountVowelAndConsonant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/FindFirstNonRepeatingChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/FindFirstRepeatingChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/FindLengthOfString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/RemoveDuplicateChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/RemoveSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/ReverseWordOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/StringConcat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/Basics/StringUsingNew.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/InterviewQuestion/StringConcat2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/InterviewQuestion/StringIntern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/InterviewQuestion/StringPlusOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/InterviewQuestion/StringUsingFinal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/InterviewQuestion/WaysOfCreatingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/String1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringClass/StringEquals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrickyQuestions/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrickyQuestions/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrickyQuestions/NotificationApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrickyQuestions/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UberApplication/NotificationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UberApplication/Uber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/CarInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/CountNoOfObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/MobileDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/StudentDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/StudentDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/BookingSystem/BusBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/BookingSystem/FlightBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/BookingSystem/IDiscount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/BookingSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/BusBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FlightBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FoodDeliverySystem/IFoodDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FoodDeliverySystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FoodDeliverySystem/NormalDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FoodDeliverySystem/PremiumDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FunctionalInterfaceEx/IAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FunctionalInterfaceEx/IAccount2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FunctionalInterfaceEx/IAccountManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/FunctionalInterfaceEx/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/IBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/Account1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/SpecialBenefits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/MyMarkerInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/Cleanable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/DataCleanable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/Interface8/TrainBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/EmailNotification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/LinkedInNotification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/Notification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/NotificationSystem/WhatsappNotification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/PaymentSystem/CreditCardPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/PaymentSystem/IPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/PaymentSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/PaymentSystem/PayPalPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/PaymentSystem/UpiPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/IVehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/Interface/VehicleRentalSystem/Truck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/deepCloning/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/deepCloning/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/deepCloning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/shallowCloning/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/shallowCloning/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/shallowCloning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/GettingException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/HandelException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/MultiCatchBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/compiletimeException/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/compiletimeException/MutiThreadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/compiletimeException/OpenFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/compiletimeException/ThreadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/finallyBlockEx/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/finallyBlockEx/InvoiceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/multitrycatch/ExecutionOrder6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/AccountManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/userdefineException/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/userdefineException/FundTransferException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/userdefineException/InsufficientException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptionEx/throwandthrows/userdefineException/PaymentMgmt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid21708.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid23060.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid9324.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/AccountDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/AddTwoNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/AddTwoNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/CheckEligibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/HelloWorldUsingIJ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabasics/PalindromNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/message.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/dictionaries/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/AccessModifier/Client1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/AccessModifier/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/AccessModifier/EmployeeData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/AccessModifier/GetEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/AccessModifier/OwnerEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Array/Array1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Array/SBIBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Array/SBIBankMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Array/StudentData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Array/StudentDataMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/BankingSystem/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/BankingSystem/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/BankingSystem/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/BankingSystem/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/BookingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/CmdLineArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/EmployeeSalaryInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/Grocery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/OrderInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/OutfitDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/ProcessFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/CommandLinePractice/ShoppingCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Accounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/AmazonUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/BuyNow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/ElectronicProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/OutfitProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/AmazonApp/Signup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Booked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Booking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/ConstructorChaining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/ConstructorChainingUsingSuper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/ConstructorHierarchy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/CopyConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/CreateAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/CreateUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Invoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/ProductDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/RectangleObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Student1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/SuperUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/UserDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/UserProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Constructor/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/CabFare/CabFareCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/CabFare/CabFareCalculatorMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/FlightTicketBookingRepo/FlightTicketBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/FlightTicketBookingRepo/FlightTicketBookingMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/MakeMyTripRepo/MakeMyTrip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/MakeMyTripRepo/MakeMyTripMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/RestaurantBill/RestaurantBill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/RestaurantBill/RestaurantBillMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/BankingTransaction/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/BankingTransaction/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/CalculatorUsingSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/DayIdentify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/ECommerceDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/NumberToWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ControlFlow/SwitchCase/VowelOrConsonant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/BooleanExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/ByteExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/CheckStringEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/ResourceNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/DataTypes/StringExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Deserialization/ReadObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Deserialization/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Deserialization/WriteObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/FinalKeyword/EmployeeManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/FinalKeyword/Employees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/FinalKeyword/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/FlowScreenShort/MultiThreadInterrupt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Interfaces/IHospitalService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Interfaces/IPayable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Interfaces/IReportable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Model/Doctor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Model/Patient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Service/Consultation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Service/LabTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/HospitalManagementSystem/Service/MedicalReport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/KodeWala(Java).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/LibraryManagementSystem/FacultyMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/LibraryManagementSystem/LibraryMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/LibraryManagementSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/LibraryManagementSystem/StudentMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Basics/DoWhileLoopEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Basics/PrintNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Basics/WhileLoopExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Hard/Pattern1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Hard/Pattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Hard/pattern3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Medium/PrimeNumberCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Loops/Medium/PrintNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/MemoryLeakErrorExamples/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/MemoryLeakErrorExamples/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/AddTwoNumberUsingMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/CalculateTotalPrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/CheckEvenOrOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/CountOccorenceOfChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/FactorialNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/FindMaximumThreeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/FindSecondLargestEle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/FundTransfer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/PalindromNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/PrimeNumberCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/ReverseNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/SumOfArrayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/TransactionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/ValidateInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/methodhiding/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/methodhiding/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Method/methodhiding/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/ATMSystem/ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/ATMSystem/ImplementATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/FoodDeliverySystem/FoodDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/FoodDeliverySystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/OnlineTicketBooking/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/OnlineTicketBooking/TicketBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/OrderPlacementSystem/ImplementOrderPlace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/OrderPlacementSystem/OrderPlace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Abstraction/SimpleCode/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/ATMPinValidation/ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/ATMPinValidation/ImplementATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/DigitalParkingMeter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/DigitalParkingMeter/ParkingMeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/EmployeeSalaryManagement/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/EmployeeSalaryManagement/ImplementEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/FundTransfer/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/FundTransfer/ImplementBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/PaymentProcess/ImplementPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/PaymentProcess/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/ProductStockManagement/ImplementProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/ProductStockManagement/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/SimpleCode/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Encaptulation/SimpleCode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/AccessingParentProperties/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/AccessingParentProperties/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/AccessingParentProperties/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/BankDetails/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/BankDetails/ImplementSavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/BankDetails/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/ConstructorExecutingOrder/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/ConstructorExecutingOrder/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/ConstructorExecutingOrder/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/HierarchicalInheritance/CardPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/HierarchicalInheritance/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/HierarchicalInheritance/UpiPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/MultilevelInheritance/ElectronicProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/MultilevelInheritance/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/MultilevelInheritance/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/SingleInheritance/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/DifferentTypeOfInheritance/SingleInheritance/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Disadvantages/Accounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Disadvantages/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Disadvantages/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Disadvantages/SrCitAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Ecommers/ClothingProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Ecommers/ElectronicProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Ecommers/ImplementProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/Ecommers/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/EmployeeManagement/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/EmployeeManagement/ImplementManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/EmployeeManagement/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/MultilevelInheritance/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/MultilevelInheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/MultilevelInheritance/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/MultilevelInheritance/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SimpleCode/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SimpleCode/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SimpleCode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SingleInheritance/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SingleInheritance/ImplementVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Inheritance/SingleInheritance/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overloading/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overloading/ImplementCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overloading/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overloading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overriding/Accounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overriding/Men.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overriding/Outfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Overriding/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/EmailNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/EmployeeSalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/ImplementPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/ManagerSalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/PaymentSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/OverridingAndOverloading/UPIPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Developer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Downcasting/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/Bike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/ProcessVehicleRide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/Suv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/RideBookingSystem/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/SimpleCode/Delivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/SimpleCode/EKart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/SimpleCode/ExpressBee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/SimpleCode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/AutoRide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/BikeDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/BikeRide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/CarRide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/DeliveryPartner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/EVDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/FinanceUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/Ride.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/ScottyDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/UpcastingAndDownCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/OOPs/Polymorphism/Upcasting/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/AndOrOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/DivisibleBy3And5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/DlEligibility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/OnlineDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/PositiveAndEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/TemperatureCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Operators/TernaryOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ScannerExamples/GuessTheNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ScannerExamples/ScannerExp1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/ScannerExamples/ScannerExp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/CardPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/NetBankingPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SealedAndPermits/UPIPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/DeserializationEx/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/SerializationEx/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/SerializationEx/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/SerializationEx/SerializeMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/StudentManagementSystem/model/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/StudentManagementSystem/service/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SerializableTopic/StudentManagementSystem/util/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Shortcuts/s1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/ProcessTheOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/VivoModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/VivoS1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/VivoV21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/VivoV23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain/VivoV80New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/AltoK10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/MarutiSuzukiModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/ProcessCarModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/Swift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/SolidPrinciple/SOExplain2/WagonR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/AccountManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Hotstar/CountUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Hotstar/ImplementCountUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/ImplementUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/EmployeeData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/Practice/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StaticAndInstanceBlock/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/DynamicSQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/GenerateQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/StringBufferMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/StringBuilderEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/StringBuilderForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringBuilderAndBuffer/UserQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/CheckPalindromeString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/ConvertFirstCharToUpperCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/CountCharInString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/CountVowelAndConsonant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/FindFirstNonRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/FindFirstRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/FindLengthOfString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/RemoveDuplicateChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/RemoveSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/ReverseWordOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/StringConcat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/Basics/StringUsingNew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/InterviewQuestion/StringConcat2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/InterviewQuestion/StringIntern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/InterviewQuestion/StringPlusOp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/InterviewQuestion/StringUsingFinal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/InterviewQuestion/WaysOfCreatingString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/String1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/StringEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/StringClass/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/EmailNotificationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/NotificationApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/NotificationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/TrickyQuestions/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/UberApplication/NotificationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/UberApplication/Uber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Variables/CarInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Variables/CountNoOfObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Variables/MobileDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Variables/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/Variables/StudentDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/BookingSystem/BusBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/BookingSystem/FlightBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/BookingSystem/IDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/BookingSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/BusBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FlightBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FoodDeliverySystem/IFoodDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FoodDeliverySystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FoodDeliverySystem/NormalDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FoodDeliverySystem/PremiumDelivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FunctionalInterfaceEx/IAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FunctionalInterfaceEx/IAccount2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FunctionalInterfaceEx/IAccountManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/FunctionalInterfaceEx/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/IBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/Account1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Developer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/EmployeeBenefit/SpecialBenefits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/MyMarkerInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/Cleanable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/DataCleanable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/MarkerInterface/ownmarkerinterface/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/Interface8/TrainBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/EmailNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/LinkedInNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/NotificationSystem/WhatsappNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/PaymentSystem/CreditCardPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/PaymentSystem/IPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/PaymentSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/PaymentSystem/PayPalPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/PaymentSystem/UpiPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/Bike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/IVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/Interface/VehicleRentalSystem/Truck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/deepCloning/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/deepCloning/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/deepCloning/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/shallowCloning/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/shallowCloning/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/com/shallowCloning/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/Account2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/GettingException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/HandelException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/MultiCatchBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/compiletimeException/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/compiletimeException/MutiThreadException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/compiletimeException/OpenFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/compiletimeException/ThreadException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/finallyBlockEx/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/finallyBlockEx/InvoiceService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/multitrycatch/ExecutionOrder6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/AccountManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/userdefineException/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/userdefineException/FundTransferException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/userdefineException/InsufficientException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/exceptionEx/throwandthrows/userdefineException/PaymentMgmt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/hs_err_pid21708.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/hs_err_pid23060.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/hs_err_pid9324.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/AccountDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/AddTwoNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/CheckEligibility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/HelloWorldUsingIJ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/javabasics/PalindromNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/message.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/functional/StudentPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/studentRecordBackup/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/studentRecordBackup/RegularStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/studentRecordBackup/ScholarshipStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/studentRecordBackup/SpecialBenefits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/projects/studentRecordBackup/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/student.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KodeWala(Java)/student.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/functional/StudentPredicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/studentRecordBackup/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/studentRecordBackup/RegularStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/studentRecordBackup/ScholarshipStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/studentRecordBackup/SpecialBenefits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/studentRecordBackup/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/dictionaries/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.kilo/.kilo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.kilo/worktrees/grizzly-confidence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/exceptionEx/compiletimeException/ThreadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/exceptionEx/compiletimeException/ThreadException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -862,165 +67,164 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Account.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Booked.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BuyNow.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CabFareCalculatorMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CalculateTotalPrice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorUsingSwitch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckPalindromeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChaining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChainingUsingSuper.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConstructorHierarchy.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Contents.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertFirstCharToUpperCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountCharInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVowelAndConsonant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Counter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreateAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreateUser.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Customer.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DayIdentify.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhileLoopEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Driver.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DynamicSQL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ECommerceDiscount.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeData.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutionOrder6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindFirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindFirstRepeatingChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindLengthOfString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlightTicketBookingMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GettingException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuessTheNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HandelException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldUsingIJ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IDBIBank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementATM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementBank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementCountUser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementEmployee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementOrderPlace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementPayment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementSavingAccount.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ImplementUser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementVehicle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface.NotificationSystem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface.PaymentSystem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvoiceService.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibraryManagementSystem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MakeMyTripMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MultiCatchBlock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MutiThreadException.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.NotificationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberToWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Abstraction.FoodDeliverySystem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Abstraction.OnlineTicketBooking.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.OOPs.Encaptulation.DigitalParkingMeter.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Encaptulation.SimpleCode.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Inheritance.AccessingParentProperties.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Inheritance.Disadvantages.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Inheritance.Ecommers.ImplementProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Inheritance.MultilevelInheritance.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.OverridingAndOverloading.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Polymorphism.SimpleCode.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Polymorphism.Upcasting.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OpenFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumberCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumber2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadObject.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RectangleObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicateChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveSpace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RestaurantBillMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseWordOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SBIBankMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ScannerExp1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerExp2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializableTopic.DeserializationEx.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SerializableTopic.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializableTopic.SerializationEx.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Signup.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SolidPrinciple.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SolidPrinciple.SOExplain2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBufferMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConcat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConcat2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringEquals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringIntern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringIntern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPlusOp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUnderstanding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUsingFinal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUsingNew.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentDataMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrickeyQuestions.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrickyQuestions.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Uber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.UpcastingAndDownCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserQuery.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidateInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VowelOrConsonant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaysOfCreatingString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoopExp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.Interface.Interface8.FunctionalInterfaceEx.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.Interface.Interface8.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.Interface.Interface8.MarkerInterface.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.Interface.Interface8.MarkerInterface.ownmarkerinterface.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.Interface.VehicleRentalSystem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.shallowCloning.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exceptionEx.compiletimeException.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exceptionEx.throwandthrows.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exceptionEx.throwandthrows.userdefineException.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mdswa/Desktop/KodeWala(Java)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mdswa/Desktop/KodeWala(Java)/SmartFileUploadSystem/src/main/java/com/kodewala/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Account.executor": "Debug",
+    "Application.Application.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Booked.executor": "Debug",
+    "Application.BuyNow.executor": "Debug",
+    "Application.CabFareCalculatorMain.executor": "Debug",
+    "Application.CalculateTotalPrice.executor": "Run",
+    "Application.CalculatorUsingSwitch.executor": "Run",
+    "Application.CheckPalindromeString.executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.ConstructorChaining.executor": "Run",
+    "Application.ConstructorChainingUsingSuper.executor": "Debug",
+    "Application.ConstructorHierarchy.executor": "Debug",
+    "Application.Contents.Main.executor": "Run",
+    "Application.ConvertFirstCharToUpperCase.executor": "Run",
+    "Application.CopyConstructor.executor": "Run",
+    "Application.CountCharInString.executor": "Run",
+    "Application.CountVowelAndConsonant.executor": "Run",
+    "Application.Counter.executor": "Run",
+    "Application.CreateAccount.executor": "Run",
+    "Application.CreateUser.executor": "Debug",
+    "Application.Customer.executor": "Debug",
+    "Application.DayIdentify.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DoWhileLoopEx.executor": "Run",
+    "Application.Driver.executor": "Debug",
+    "Application.DynamicSQL.executor": "Run",
+    "Application.ECommerceDiscount.executor": "Debug",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeData.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.ExecutionOrder.executor": "Run",
+    "Application.ExecutionOrder2.executor": "Run",
+    "Application.ExecutionOrder3.executor": "Run",
+    "Application.ExecutionOrder4.executor": "Run",
+    "Application.ExecutionOrder5.executor": "Run",
+    "Application.ExecutionOrder6.executor": "Run",
+    "Application.FindFirstNonRepeatingChar.executor": "Run",
+    "Application.FindFirstRepeatingChar.executor": "Run",
+    "Application.FindLengthOfString.executor": "Run",
+    "Application.FlightTicketBookingMain.executor": "Run",
+    "Application.GettingException.executor": "Run",
+    "Application.GuessTheNumber.executor": "Run",
+    "Application.HandelException.executor": "Run",
+    "Application.HelloWorldUsingIJ.executor": "Run",
+    "Application.IDBIBank.executor": "Run",
+    "Application.ImplementATM.executor": "Run",
+    "Application.ImplementBank.executor": "Run",
+    "Application.ImplementCalculator.executor": "Run",
+    "Application.ImplementCountUser.executor": "Run",
+    "Application.ImplementEmployee.executor": "Run",
+    "Application.ImplementManager.executor": "Run",
+    "Application.ImplementOrderPlace.executor": "Run",
+    "Application.ImplementPayment.executor": "Run",
+    "Application.ImplementProduct.executor": "Run",
+    "Application.ImplementSavingAccount.executor": "Debug",
+    "Application.ImplementUser.executor": "Run",
+    "Application.ImplementVehicle.executor": "Run",
+    "Application.Interface.NotificationSystem.Main.executor": "Run",
+    "Application.Interface.PaymentSystem.Main.executor": "Run",
+    "Application.InvoiceService.executor": "Run",
+    "Application.LibraryManagementSystem.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.MakeMyTripMain.executor": "Debug",
+    "Application.MultiCatchBlock.executor": "Run",
+    "Application.MutiThreadException.executor": "Debug",
+    "Application.NotificationApplication.executor": "Run",
+    "Application.NumberToWord.executor": "Run",
+    "Application.OOPs.Abstraction.FoodDeliverySystem.Main.executor": "Run",
+    "Application.OOPs.Abstraction.OnlineTicketBooking.Main.executor": "Debug",
+    "Application.OOPs.Encaptulation.DigitalParkingMeter.Main.executor": "Run",
+    "Application.OOPs.Encaptulation.SimpleCode.Main.executor": "Run",
+    "Application.OOPs.Inheritance.AccessingParentProperties.Main.executor": "Run",
+    "Application.OOPs.Inheritance.Disadvantages.Main.executor": "Run",
+    "Application.OOPs.Inheritance.Ecommers.ImplementProduct.executor": "Run",
+    "Application.OOPs.Inheritance.MultilevelInheritance.Main.executor": "Run",
+    "Application.OOPs.OverridingAndOverloading.Main.executor": "Run",
+    "Application.OOPs.Polymorphism.SimpleCode.Main.executor": "Run",
+    "Application.OOPs.Polymorphism.Upcasting.Main2.executor": "Run",
+    "Application.OpenFile.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.PrintNumber2.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.ReadObject.executor": "Debug",
+    "Application.RectangleObject.executor": "Run",
+    "Application.RemoveDuplicateChar.executor": "Run",
+    "Application.RemoveSpace.executor": "Run",
+    "Application.RestaurantBillMain.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseWordOrder.executor": "Run",
+    "Application.SBIBankMain.executor": "Debug",
+    "Application.ScannerExp1.executor": "Run",
+    "Application.ScannerExp2.executor": "Run",
+    "Application.SerializableTopic.DeserializationEx.Main.executor": "Debug",
+    "Application.SerializableTopic.Main.executor": "Run",
+    "Application.SerializableTopic.SerializationEx.Main.executor": "Run",
+    "Application.Signup.executor": "Debug",
+    "Application.SolidPrinciple.Main.executor": "Run",
+    "Application.SolidPrinciple.SOExplain2.Main.executor": "Run",
+    "Application.String1.executor": "Run",
+    "Application.StringBufferMethods.executor": "Run",
+    "Application.StringBuilderForLoop.executor": "Run",
+    "Application.StringConcat.executor": "Run",
+    "Application.StringConcat2.executor": "Run",
+    "Application.StringEquals.executor": "Run",
+    "Application.StringIntern.executor": "Run",
+    "Application.StringIntern2.executor": "Run",
+    "Application.StringPlusOp.executor": "Run",
+    "Application.StringUnderstanding.executor": "Run",
+    "Application.StringUsingFinal.executor": "Run",
+    "Application.StringUsingNew.executor": "Run",
+    "Application.StudentDataMain.executor": "Debug",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.ThreadException.executor": "Run",
+    "Application.TrickeyQuestions.Example.executor": "Run",
+    "Application.TrickyQuestions.Main.executor": "Debug",
+    "Application.Uber.executor": "Debug",
+    "Application.UpcastingAndDownCasting.executor": "Run",
+    "Application.UserProduct.executor": "Run",
+    "Application.UserQuery.executor": "Run",
+    "Application.ValidateInput.executor": "Run",
+    "Application.VowelOrConsonant.executor": "Run",
+    "Application.WaysOfCreatingString.executor": "Run",
+    "Application.WhileLoopExp.executor": "Run",
+    "Application.WriteObject.executor": "Run",
+    "Application.com.Interface.Interface8.FunctionalInterfaceEx.Main.executor": "Run",
+    "Application.com.Interface.Interface8.Main.executor": "Run",
+    "Application.com.Interface.Interface8.MarkerInterface.Driver.executor": "Run",
+    "Application.com.Interface.Interface8.MarkerInterface.ownmarkerinterface.Main.executor": "Run",
+    "Application.com.Interface.VehicleRentalSystem.Main.executor": "Run",
+    "Application.com.shallowCloning.Main.executor": "Run",
+    "Application.exceptionEx.compiletimeException.Driver.executor": "Run",
+    "Application.exceptionEx.throwandthrows.Driver.executor": "Run",
+    "Application.exceptionEx.throwandthrows.userdefineException.Driver.executor": "Run",
+    "Application.pattern3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mdswa/Desktop/KodeWala(Java)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mdswa\Desktop\KodeWala(Java)\Shortcuts" />
@@ -1029,13 +233,13 @@
       <recent name="com.deepCloning" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExecutionOrder6">
-    <configuration name="Account" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankingSystem.Account" />
+  <component name="RunManager" selected="Application.ThreadException">
+    <configuration name="DoWhileLoopEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Basics.DoWhileLoopEx" />
       <module name="KodeWala(Java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BankingSystem.*" />
+          <option name="PATTERN" value="Loops.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1043,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionEx.finallyBlockEx.Driver" />
+    <configuration name="ThreadException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionEx.compiletimeException.ThreadException" />
       <module name="KodeWala(Java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptionEx.finallyBlockEx.*" />
+          <option name="PATTERN" value="exceptionEx.compiletimeException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1056,88 +260,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecutionOrder4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionEx.multitrycatch.ExecutionOrder4" />
-      <module name="KodeWala(Java)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptionEx.multitrycatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExecutionOrder6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionEx.multitrycatch.ExecutionOrder6" />
-      <module name="KodeWala(Java)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptionEx.multitrycatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlow.SwitchCase.VowelOrConsonant" />
-      <module name="KodeWala(Java)" />
-      <option name="PROGRAM_PARAMETERS" value="c" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ControlFlow.SwitchCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exceptionEx.throwandthrows.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionEx.throwandthrows.Driver" />
-      <module name="KodeWala(Java)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptionEx.throwandthrows.userdefineException.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exceptionEx.throwandthrows.userdefineException.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionEx.throwandthrows.userdefineException.Driver" />
-      <module name="KodeWala(Java)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptionEx.throwandthrows.userdefineException.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Account" />
-      <item itemvalue="Application.Driver" />
-      <item itemvalue="Application.ExecutionOrder4" />
-      <item itemvalue="Application.ExecutionOrder6" />
-      <item itemvalue="Application.VowelOrConsonant" />
-      <item itemvalue="Application.exceptionEx.throwandthrows.Driver" />
-      <item itemvalue="Application.exceptionEx.throwandthrows.userdefineException.Driver" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExecutionOrder6" />
-        <item itemvalue="Application.exceptionEx.throwandthrows.userdefineException.Driver" />
-        <item itemvalue="Application.exceptionEx.throwandthrows.Driver" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.ExecutionOrder4" />
+        <item itemvalue="Application.ThreadException" />
+        <item itemvalue="Application.DoWhileLoopEx" />
       </list>
     </recent_temporary>
   </component>
@@ -1701,15 +827,10 @@
           <line>31</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SmartFileUploadSystem/src/main/java/com/kodewala/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Constructor/Customer.java</url>
           <line>11</line>
-          <properties class="Constructor.Invoice" method="&lt;init&gt;">
+          <properties class="Constructor.Invoice">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1718,7 +839,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/UberApplication/NotificationService.java</url>
           <line>3</line>
-          <properties class="UberApplication.NotificationService" method="sendNotification">
+          <properties class="UberApplication.NotificationService">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1727,7 +848,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Constructor/CreateUser.java</url>
           <line>11</line>
-          <properties class="Constructor.UserDetails" method="&lt;init&gt;">
+          <properties class="Constructor.UserDetails">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
