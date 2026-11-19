@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FileUploadedService {
+public class FileUploadService {
     private final List<UploadedFile> uploadedFiles = new ArrayList<>();
 
     public UploadedFile uploadFile(String filePath) throws InvalidFileNameException,
