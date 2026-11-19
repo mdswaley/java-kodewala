@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b708e3ce-e734-4959-90c9-c2fc55ca914f" name="Changes" comment="ExecutionOrder6">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b708e3ce-e734-4959-90c9-c2fc55ca914f" name="Changes" comment="change package">
+      <change afterPath="$PROJECT_DIR$/SmartFileUploadSystem/SmartFileUploadSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartFileUploadSystem/SmartFileUploadSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartFileUploadSystem/SmartFileUploadSystem/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/dictionaries/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.kilo/.kilo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.kilo/worktrees/grizzly-confidence" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/exceptionEx/compiletimeException/ThreadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/exceptionEx/compiletimeException/ThreadException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +126,7 @@
     "Application.Main3.executor": "Run",
     "Application.MakeMyTripMain.executor": "Debug",
     "Application.MultiCatchBlock.executor": "Run",
-    "Application.MutiThreadException.executor": "Debug",
+    "Application.MutiThreadException.executor": "Run",
     "Application.NotificationApplication.executor": "Run",
     "Application.NumberToWord.executor": "Run",
     "Application.OOPs.Abstraction.FoodDeliverySystem.Main.executor": "Run",
@@ -214,7 +203,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -233,13 +221,26 @@
       <recent name="com.deepCloning" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadException">
+  <component name="RunManager" selected="Application.MutiThreadException">
     <configuration name="DoWhileLoopEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.Basics.DoWhileLoopEx" />
       <module name="KodeWala(Java)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Loops.Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutiThreadException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionEx.compiletimeException.MutiThreadException" />
+      <module name="KodeWala(Java)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionEx.compiletimeException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,6 +263,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MutiThreadException" />
         <item itemvalue="Application.ThreadException" />
         <item itemvalue="Application.DoWhileLoopEx" />
       </list>
@@ -274,14 +276,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789963933448</updated>
-    </task>
-    <task id="LOCAL-00236" summary="changes in Student class">
-      <option name="closed" value="true" />
-      <created>1793887950849</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1793887950849</updated>
     </task>
     <task id="LOCAL-00237" summary="added RegularStudent class which is type of Student">
       <option name="closed" value="true" />
@@ -667,7 +661,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795081089942</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="change package">
+      <option name="closed" value="true" />
+      <created>1795094575791</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1795094575794</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -682,7 +684,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MultiCatchBlock day 2 of exception comments" />
     <MESSAGE value="understanding about finally block" />
     <MESSAGE value="finally block tricky questions" />
     <MESSAGE value="finally block tricky questions comments" />
@@ -707,7 +708,8 @@
     <MESSAGE value="apply custom exception" />
     <MESSAGE value="apply custom exception comments" />
     <MESSAGE value="ExecutionOrder6" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExecutionOrder6" />
+    <MESSAGE value="change package" />
+    <option name="LAST_COMMIT_MESSAGE" value="change package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
