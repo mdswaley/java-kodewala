@@ -4,7 +4,7 @@ package MemoryLeakErrorExamples;
 /**
  * understanding about memory leak error.
  * if you have un-wanted objects in heap area
- * there is a change you will get memory leak error
+ * there is a chance you will get memory leak error
  * */
 public class Main {
 //    we make it instance level
