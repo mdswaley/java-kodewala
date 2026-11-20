@@ -16,7 +16,7 @@ public class StackOverflowErrorEx {
         m1();
     }
 }
-
+// StackOverflowError :- when methods call recursively. And there is no terminate condition.
 // After some number of times methods call each other (around 1000 times)
 // JVM is close the application with StackOverflowError throw.
 // bcz the memory don't have enough space. Stack is full of recursive calls of methods.
