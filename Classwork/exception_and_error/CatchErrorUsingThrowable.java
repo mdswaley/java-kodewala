@@ -17,6 +17,7 @@ public class CatchErrorUsingThrowable {
     }
 }
 
+// IMPORTANT:----
 // Both Exception and Error extend Throwable.
 //
 //Therefore, catch(Throwable t) can catch StackOverflowError if the
