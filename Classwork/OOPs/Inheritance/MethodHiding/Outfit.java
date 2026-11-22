@@ -5,6 +5,9 @@ public class Outfit {
         Foodware f = new MenFoodware();
 
         f.showDetails(); // method hiding
+
+        C c = new C();
+        c.show();
     }
 }
 
@@ -23,4 +26,19 @@ class MenFoodware extends Foodware{
     public static void showDetails(){
         System.out.println("MenFoodware ShowDetails");
     }
+}
+
+interface A{
+    void show();
+}
+
+abstract class B implements A{
+    @Override
+    public void show(){
+        System.out.println("Heello");
+    }
+}
+
+class C extends B{
+
 }
