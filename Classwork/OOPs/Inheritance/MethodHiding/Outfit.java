@@ -6,6 +6,7 @@ public class Outfit {
 
         f.showDetails(); // method hiding
 
+//        Abstract class
         C c = new C();
         c.show();
     }
