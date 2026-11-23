@@ -8,9 +8,11 @@ public class ArrayListEx {
         ArrayList<String> name = new ArrayList<>();
 
 //        Storing the data
+//        ArrayList -> contains duplicate, Order is maintained and can contain multiple null values
         name.add("MD");
         name.add("Raaj");
         name.add(null);
+        name.add("Raaj");
         name.add("Priya");
         name.add("Vicky");
         name.add(null);
