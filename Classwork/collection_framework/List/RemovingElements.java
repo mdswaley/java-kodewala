@@ -2,7 +2,6 @@ package collection_framework.List;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class RemovingElements {
     public static void main(String[] args) {
