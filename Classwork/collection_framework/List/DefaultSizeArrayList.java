@@ -19,7 +19,7 @@ public class DefaultSizeArrayList {
         arr.add("Hari");
         arr.add("Subham");
         arr.add("Prince");
-        arr.add("jdfhk");
+        arr.add(null); // if you add null value. Then also capacity will increase
 
         System.out.println(arr.size());
 
