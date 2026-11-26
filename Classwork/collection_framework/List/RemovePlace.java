@@ -21,7 +21,7 @@ public class RemovePlace {
 
         arr.add(3, "GGN"); // adding element in 3rd index. Then shift all the rest of element towards right.
 
-
+        arr.add("ODS"); // T.C :- O(1). bcz no shifting
 
 
         System.out.println(arr);
