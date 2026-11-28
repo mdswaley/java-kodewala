@@ -32,6 +32,5 @@ public class RemoveEle {
         list1.remove("20"); // Here, "20" is a String object. Therefore, it removes the element whose value is "20".
 
         System.out.println(list1);
-
     }
 }
